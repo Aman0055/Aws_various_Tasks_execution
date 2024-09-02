@@ -1,0 +1,32 @@
+Project : Automating different tasks usnig AWS 
+
+Steps 1: Deleting unused EBS Volumes 
+              > EBS (Elastic Block Storage)
+              > Acess Key & Secret Access Key 
+
+Steps 2: Deleting Unused Ip Addresses
+              > EC2 (Elastic Compute Cloud)
+              > Elastic Ip Addresses
+              > VPC (Virtual Public Cloud)
+
+Steps 3: Deleting Empty S3 Buckets 
+              > Access Key & Secret Access Key 
+              > S3 (Simple Storage Service) (Client & Resource)
+
+
+Steps 4: Deleting EBS Snapshots
+              > EBS (Elastic Block Storage)
+
+Steps 5: Sending Emails to Users Using Aws SES & SNS 
+              > SES (Simple Email Service)
+              > SNS (Simple Noification Service)
+
+Steps 6: Transcribing an MP4 to Text usnig AWS Trnascribe 
+              > Aws Access Key & Secret Access Key 
+              > Aws Region 
+              > S3 Bucket 
+              > Input Vedio File 
+              > Output Transcript File
+
+Access Key : 
+Secret Access Key : 
